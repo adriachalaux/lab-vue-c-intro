@@ -4,12 +4,12 @@
 </script>
 
 <template>
- <button>Test</button>
+  <button>Test</button>
 </template>
 
 <style scoped>
-button {
-  background-color: var(--bg-color-button);
-  color: var(--color-button);
-}
+  button {
+    background-color: var(--bg-color-button);
+    color: var(--color-button);
+  }
 </style>
